@@ -12,7 +12,7 @@
 
 클래스는 네트워크 크기에 따라 IP 주소를 분류하는 기준입니다. 클래스를 이용하면 필요한 호스트 IP 개수에 따라 **네트워크 크기를 가변적으로 조정**해 **네트워크 주소와 호스트 주소를 구획**할 수 있습니다. **클래스를 기반으로 IP 주소를 관리하는 주소 체계**를 클래스풀 주소 체계라고 합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e7472e42-7118-406f-8758-f9c76b1cf86a/e2e65c30-6078-45cb-a550-ae9aa4fe4838/Untitled.png)
 

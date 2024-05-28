@@ -26,7 +26,7 @@
 > IP 주소 공간 중에서 사설 IP 주소로 사용하도록 특별히 예약된 IP 주소 공간이 있습니다. \
 >
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 내 컴퓨터의 공인 IP와 사설 IP 확인하기
 
