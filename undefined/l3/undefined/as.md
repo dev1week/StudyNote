@@ -9,5 +9,14 @@
 
 
 
+* AS 내에는 다수의 라우터가 있습니다.&#x20;
+* 내부에서만 통신할 수 있고, 외부와 통신할 수 있습니다.&#x20;
 
 
+
+## AS 경계 라우터&#x20;
+
+> AS 경계에서 AS 내외로 통신을 주고 받을 수 있는 라우터입니다. \
+> AS 외부와 통신할 경우 사용합니다.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
