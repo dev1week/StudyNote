@@ -11,15 +11,15 @@
 * 네트워크 주소와 호스트 주소를 구분하는 범위는 유동적입니다.
   *   네트워크 주소가 하나의 옥텟으로 이루어진 경우
 
-      <figure><img src="../.gitbook/assets/네트워크.PNG" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/네트워크.PNG" alt=""><figcaption></figcaption></figure>
   *   네트워크 주소가 세 개의 옥텟으로 이루어진 경우
 
-      <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
       ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/e7472e42-7118-406f-8758-f9c76b1cf86a/6529f8fe-d0fb-467f-8bcf-97dca6fee997/Untitled.png)
 * 다음은 네트워크 주소가 16비트, 호스트 주소가 16비트인 IP 주소의 예시입니다.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### 클래스
 
@@ -33,7 +33,7 @@
 
 클래스는 네트워크 크기에 따라 IP 주소를 분류하는 기준입니다. 클래스를 이용하면 필요한 호스트 IP 개수에 따라 **네트워크 크기를 가변적으로 조정**해 **네트워크 주소와 호스트 주소를 구획**할 수 있습니다. **클래스를 기반으로 IP 주소를 관리하는 주소 체계**를 클래스풀 주소 체계라고 합니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e7472e42-7118-406f-8758-f9c76b1cf86a/e2e65c30-6078-45cb-a550-ae9aa4fe4838/Untitled.png)
 
@@ -74,7 +74,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="156">헤더 속성</th><th>설명 </th></tr></thead><tbody><tr><td>식별자</td><td><ul><li>패킷에 할당된 번호입니다. </li><li>여러개로 쪼개서 보내질 경우 재조합하기 위해서 사용합니다.</li></ul></td></tr><tr><td>플래그 DF</td><td><ul><li>1로 설정되어 있다면 단편화를 수행하지 않습니다.</li><li>0이면 마지막, 1이면 아직 더 남아있음을 의미합니다.</li></ul></td></tr><tr><td>플래그 MF</td><td><ul><li>단편화되기 전 패킷의 초기 데이터에서 몇 번째로 떨어진 패킷인지 나타냅니다.</li><li>0이면 마지막, 1이면 아직 더 남아있음을 의미합니다.</li></ul></td></tr><tr><td>단편화 오프셋</td><td><ul><li>단편화되기 전 패킷의 초기 데이터에서 몇 번째로 떨어진 패킷인지 나타냅니다.</li></ul></td></tr><tr><td>TTL</td><td><ul><li>패킷의 수명을 의미합니다.</li><li>하나의 라우터, 호스트를 거칠 때(=홉)마다 TTL이 1씩 감소하며, 0으로 떨어진 패킷은 폐기됩니다.</li><li>무의미한 패킷이 네트워크 상에서 지속적으로 남아있는 것을 방지합니다.</li></ul></td></tr><tr><td>프로토콜</td><td><ul><li>상위 계층의 프로토콜이 무엇인지 나타냅니다.</li></ul></td></tr></tbody></table>
 
@@ -84,7 +84,7 @@
 
 > IPv4주소는 이론적으로 약 43억개를 할당가능합니다. IPv4 주소가 고갈될 것을 우려해 등장한 것이 IPv6입니다. 16바이트로 표현가능합니다. :으로 구분된 8개 그룹의 16진수로 표기합니다.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### 기능
 
