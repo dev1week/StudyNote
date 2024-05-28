@@ -39,11 +39,19 @@
 
 
 
-####
+#### 구분하는 방법&#x20;
 
+> 현재 주소 체계에서는 서브넷을 활용한 클래스리스 주소 체계를 활용해 네트워크와 호스트 주소를 구분합니다. 아래 문서를 참조하시길 바랍니다.&#x20;
 
+{% content-ref url="undefined/" %}
+[undefined](undefined/)
+{% endcontent-ref %}
 
-### IP 주소 형태
+{% content-ref url="undefined/undefined.md" %}
+[undefined.md](undefined/undefined.md)
+{% endcontent-ref %}
+
+## IP 주소 형태
 
 #### IPv4
 
