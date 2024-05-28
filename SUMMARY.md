@@ -9,4 +9,5 @@
 
 ## Java
 
-* [JVM](java/jvm.md)
+* [JVM](java/jvm/README.md)
+  * [JVM의 메모리](java/jvm/jvm.md)
