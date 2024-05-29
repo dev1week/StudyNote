@@ -27,4 +27,7 @@
 
 * [JVM](java/jvm/README.md)
   * [JVM의 메모리](java/jvm/jvm.md)
-* [람다](java/undefined.md)
+* [익명 클래스](java/undefined/README.md)
+  * [인터페이스 익명 구현 객체](java/undefined/undefined.md)
+* [람다](java/undefined-1/README.md)
+  * [람다 표현식 문법](java/undefined-1/undefined.md)
