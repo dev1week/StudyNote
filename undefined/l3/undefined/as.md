@@ -19,4 +19,4 @@
 > AS 경계에서 AS 내외로 통신을 주고 받을 수 있는 라우터입니다. \
 > AS 외부와 통신할 경우 사용합니다.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

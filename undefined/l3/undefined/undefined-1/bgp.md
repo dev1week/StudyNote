@@ -20,7 +20,7 @@ AS 간에 정보를 주고 받기 위해서는 다음 두가지  조건을 만�
 
 ### 피어링과 피어&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 피어
 

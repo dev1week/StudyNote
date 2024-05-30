@@ -4,7 +4,7 @@
 
 라우팅 테이블이 만들어지는 방법과 프로토콜에 따라 라우팅을 분류해보겠습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 라우팅&#x20;
 
@@ -22,7 +22,7 @@
 
 > 라우팅 도중 패킷이 `호스트<-> 라우터`, `라우터<->라우터` 사이에 이동하는 하나의 과정을 의미합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 패킷은 여러 홉을 거쳐 라우팅 될 수 있습니다.&#x20;
 
