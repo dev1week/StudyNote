@@ -22,7 +22,7 @@
 
 서버로서 동작하는 프로그램은 일반적으로 잘 알려진 포트와 등록된 포트로 동작하는 경우가 많습니다. 반면에 클라이언트로서 동작하는 프로그램은 동적 포트 번호 중에서 임의의 번호가 할당되는 경우가 많습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

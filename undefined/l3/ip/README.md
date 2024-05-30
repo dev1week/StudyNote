@@ -14,7 +14,7 @@
       <figure><img src="../../../.gitbook/assets/네트워크.PNG" alt=""><figcaption></figcaption></figure>
   *   네트워크 주소가 세 개의 옥텟으로 이루어진 경우
 
-      <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
       ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/e7472e42-7118-406f-8758-f9c76b1cf86a/6529f8fe-d0fb-467f-8bcf-97dca6fee997/Untitled.png)
 * 다음은 네트워크 주소가 16비트, 호스트 주소가 16비트인 IP 주소의 예시입니다.
