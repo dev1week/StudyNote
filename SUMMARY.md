@@ -49,4 +49,7 @@
 
 ## 🌊 Clean Code&#x20;
 
-* [Design Pattern](clean-code/design-pattern.md)
+* [Design Pattern](clean-code/design-pattern/README.md)
+  * [행동 패턴](clean-code/design-pattern/undefined/README.md)
+    * [전략 패턴](clean-code/design-pattern/undefined/undefined.md)
+* [Page 1](clean-code/page-1.md)
