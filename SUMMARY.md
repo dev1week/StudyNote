@@ -36,9 +36,9 @@
 * [람다](java/undefined-1/README.md)
   * [람다 표현식 문법](java/undefined-1/undefined.md)
 
-## IaC
+## ☁️ AWS
 
-* [IaC](iac/iac.md)
-* [Cloud Formation](iac/cloud-formation/README.md)
-  * [템플릿](iac/cloud-formation/undefined.md)
-  * [스택](iac/cloud-formation/undefined-1.md)
+* [IaC](aws/iac.md)
+* [Cloud Formation](aws/cloud-formation/README.md)
+  * [템플릿](aws/cloud-formation/undefined.md)
+  * [스택](aws/cloud-formation/undefined-1.md)
