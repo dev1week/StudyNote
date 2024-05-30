@@ -16,7 +16,7 @@
 1. 신뢰할 수 있는 통신과 연결형 통신을 지원하여 IP의 한계를 극복합니다.&#x20;
 2. 포트번호를 통해 응용 계층의 애플리케이션 프로세스를 식별합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

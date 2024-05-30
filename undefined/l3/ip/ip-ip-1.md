@@ -8,7 +8,7 @@
 
 운영체제에서 네트워크 설정을 확인해보면 IP 주소를 수동으로 입력하는 항목을 볼 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

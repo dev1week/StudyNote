@@ -24,7 +24,7 @@
 
 > 서브넷 마스크를 이용해 네트워크 주소와 호스트 주소를 구분 짓는 방법입니다.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 사용된 서브넷 마스크에서 0이 8개 이므로 호스트 주소는 8비트로 표현 가능합니다.&#x20;
 * 실제로 할당 가능한 IP 주소는 아래의 두개 주소를 제외한 254개입니다.&#x20;
