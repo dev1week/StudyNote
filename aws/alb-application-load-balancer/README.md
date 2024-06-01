@@ -22,7 +22,7 @@ description: 7계층에서 동작하는 로드밸런서 입니다. 트래픽을 
 
 ## 구성&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://docs.aws.amazon.com/ko_kr/elasticloadbalancing/latest/application/introduction.html">https://docs.aws.amazon.com/ko_kr/elasticloadbalancing/latest/application/introduction.html</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://docs.aws.amazon.com/ko_kr/elasticloadbalancing/latest/application/introduction.html">https://docs.aws.amazon.com/ko_kr/elasticloadbalancing/latest/application/introduction.html</a></p></figcaption></figure>
 
 * 위 사진과 같이 Load Balancer, Listener, Target Group으로 나누어져 있습니다.&#x20;
 * 기본적으로 VPC에 탑재되며 사용자 요청을 받고, 이를 VPC 내의 리소스에 적절히 부하분산합니다.&#x20;

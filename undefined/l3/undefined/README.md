@@ -4,7 +4,7 @@
 
 라우팅 테이블이 만들어지는 방법과 프로토콜에 따라 라우팅을 분류해보겠습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 라우팅&#x20;
 

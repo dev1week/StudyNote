@@ -20,7 +20,7 @@
 
 ### 해결책 : 에어리어&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * AS를 에어리어라는 단위로 나눠, 에어리어 내에서만 링크 상태를 공유합니다.&#x20;
 * 에어리어에는 번호가 부여되어있습니다.&#x20;

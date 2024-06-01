@@ -22,7 +22,7 @@
 
     \-:> IF의 조건이 만족하면 THEN 작업을 수행합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
